@@ -34,3 +34,7 @@ tmp.bat
 tmp.in
 tmp.sh
 *.o[0-9]*
+moc_*
+qrc_StreamfileCreator.cpp
+ui_*
+
